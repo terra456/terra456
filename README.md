@@ -53,8 +53,8 @@
 
 ### Codewars
 [![codewars](https://www.codewars.com/users/rsschool_e87c9cf340415d82/badges/micro)](https://www.codewars.com/users/rsschool_e87c9cf340415d82/badges/micro)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-<<<<<<< HEAD
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2042%20mins-blue)
 
@@ -135,6 +135,3 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 08/11/2023 18:36:09 UTC
 <!--END_SECTION:waka-->
-=======
-<img src="https://komarev.com/ghpvc/?username=terra456&style=flat-square&color=blue" alt=""/>
->>>>>>> c5ed371 (change languages view and del unnessesery data)
