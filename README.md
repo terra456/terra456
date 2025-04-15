@@ -35,8 +35,8 @@
 
 
 ### About me
-- 🔭 I’m currently working on online store using React with the team
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working on online store using React
+- 🌱 I’m currently learning backend development
 - 👯 I’m looking for a job or to collaborate on any open-source project. 
 - 😄 I'm speeking english
 - :mailbox:How to reach me: [Linkedin](https://www.linkedin.com/in/olga-bainova-99a407293/), [e-mail](mailto:terra.456@yandex.ru), [telegram](https://t.me/terra456)
