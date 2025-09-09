@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there 👋 I'm Olga</h1>
-  <h3>Frontend Developer from Yekaterinburg.</h3>
+  <h3>Backend Developer(Node.js) from Yekaterinburg.</h3>
 </div>
 
 <div id="socials" align="center">
@@ -23,7 +23,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -35,11 +34,11 @@
 
 
 ### About me
-- 🔭 I’m currently working on online store using React
-- 🌱 I’m currently learning backend development
+- 🔭 I’m currently working on backend for mobile app
+- 🌱 I’m currently learning ReactNative
 - 👯 I’m looking for a job or to collaborate on any open-source project. 
 - 😄 I'm speeking english
-- :mailbox:How to reach me: [Linkedin](https://www.linkedin.com/in/olga-bainova-99a407293/), [e-mail](mailto:terra.456@yandex.ru), [telegram](https://t.me/terra456)
+- :mailbox:How to reach me: [e-mail](mailto:terra.456@yandex.ru), [telegram](https://t.me/terra456)
 - My CV in russian: [portfolio](https://terra456.github.io/portfolio/)
 
 
